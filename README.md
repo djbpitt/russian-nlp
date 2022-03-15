@@ -2,6 +2,8 @@
 
 ## About
 
+Playground for Russian NLP packages.
+
 Tested under Python 3.9.9 Anaconda miniforge Apple arm (M1)
 
 ## MyStem
