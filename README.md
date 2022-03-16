@@ -36,6 +36,10 @@ See also spaCy + Stanza (formerly StanfordNLP) <https://github.com/explosion/spa
 Slovnet (<https://github.com/natasha/slovnet>) is part of the Natasha 
 project (<https://github.com/natasha>).
 
+## DeepPavlov
+
+Add stuff
+
 ----
 
 ## Links to other resources
