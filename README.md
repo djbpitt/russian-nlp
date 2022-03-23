@@ -2,6 +2,8 @@
 
 ## About
 
+Playground for Russian NLP packages.
+
 Tested under Python 3.9.9 Anaconda miniforge Apple arm (M1)
 
 ## MyStem
@@ -33,6 +35,10 @@ See also spaCy + Stanza (formerly StanfordNLP) <https://github.com/explosion/spa
 
 Slovnet (<https://github.com/natasha/slovnet>) is part of the Natasha 
 project (<https://github.com/natasha>).
+
+## DeepPavlov
+
+Add stuff
 
 ----
 
