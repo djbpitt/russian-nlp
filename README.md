@@ -31,6 +31,8 @@ models (<https://spacy.io/models/ru>).
 
 See also spaCy + Stanza (formerly StanfordNLP) <https://github.com/explosion/spacy-stanza>, a wrapper for using Stanford models (<https://stanfordnlp.github.io/stanfordnlp/>) from inside spaCy.
 
+A custom tokenizer for adjusting errata in spaCy's tokenization of Russian: https://github.com/aatimofeev/spacy_russian_tokenizer
+
 ## Slovnet
 
 Slovnet (<https://github.com/natasha/slovnet>) is part of the Natasha 
