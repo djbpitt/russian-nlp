@@ -40,7 +40,8 @@ project (<https://github.com/natasha>).
 
 ## DeepPavlov
 
-Add stuff
+DeepPavlov (<https://github.com/deepmipt/DeepPavlov>) is designed for development of production ready chat-bots and complex conversational systems,
+research in the area of NLP and, particularly, of dialog systems.
 
 ----
 
